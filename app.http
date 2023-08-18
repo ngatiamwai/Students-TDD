@@ -1,0 +1,9 @@
+###Get todos
+POST http://localhost:4000/
+Content-Type: application/json 
+
+{
+    "studentName":" Gloria mike",
+    "studentClass":"4y",
+    "studentFees":"450000",
+}
